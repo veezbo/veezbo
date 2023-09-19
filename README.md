@@ -4,7 +4,7 @@
 
 Hi! My name is Vibhor Kumar. I'm a computer scientist, amateur neuroscientist, and armchair philosopher of science. I like working at the intersection of the theoretical and applied. My work has been involved in mapping fly brains, catching financial fraud, and generating assets of various types using AI.
 
-I currently work on the Trust & Safety team @[Tinder](https://github.com/Tinder) where I combine skills in ML, Data Science, and Backend to make an impact. I also advise AI startups.
+I currently work on the Trust & Safety team @[Tinder](https://github.com/Tinder) where I combine skills in ML, Data Science, and Backend to catch bad actors and keep Tinder safe. I also advise AI startups on the side.
 
 Feel free to check out my personal website at [veezbo.com](http://veezbo.com) to learn more!
 
@@ -15,7 +15,7 @@ Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://git
 > Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
 
 ### Akkadian Talker: Understanding Ancient Peoples through Conversation  
-_Not yet released_  
+_Not yet released_ but some preliminary results are queryable with a PEFT fine-tuning of Llama-2-7b [here](https://huggingface.co/veezbo/LLama-2-7b-hf-akkadian)
 > Fine-tuning pre-trained LLMs with a recently-published English-translated ancient language corpus with the ultimate goal of better understanding the “umwelt” of these ancient peoples. Eventually want to partner with museums to make visits more immersive.
 
 ## 🌐🤝 Recent contributions to open-source
