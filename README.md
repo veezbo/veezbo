@@ -16,11 +16,11 @@ Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://git
 
 ### Akkadian Talker: Understanding Ancient Peoples through Conversation  
 _Not yet released_ but some preliminary results are queryable with a PEFT fine-tuning of Llama-2-7b [here](https://huggingface.co/veezbo/LLama-2-7b-hf-akkadian)
-> Fine-tuning pre-trained LLMs with a recently-published English-translated ancient language corpus with the ultimate goal of better understanding the “umwelt” of these ancient peoples. Eventually want to partner with museums to make visits more immersive.
+> Fine-tuning pre-trained LLMs with a recently-published English-translated ancient language corpus with the ultimate goal of better understanding the “umwelt” of these ancient peoples. In contact with museums to create futuristic exhibits using this tech.
 
-## 🌐🤝 Recent contributions to open-source
-https://github.com/huggingface/transformers/pull/25807  
+## 🌐🤝 Recent contributions to open-source AI
 https://github.com/outlines-dev/outlines/pull/287
+https://github.com/huggingface/transformers/pull/25807  
 
 ## 🔗 Connect with me
 <a href="https://veezbo.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
