@@ -19,7 +19,8 @@ _Not yet released_ but some preliminary results are queryable with a PEFT fine-t
 > Fine-tuning pre-trained LLMs with a recently-published English-translated ancient language corpus with the ultimate goal of better understanding the “umwelt” of these ancient peoples. In contact with museums to create futuristic exhibits using this tech.
 
 ## 🌐🤝 Recent contributions to open-source AI
-https://github.com/outlines-dev/outlines/pull/287
+[veezbo/akkadian_english_corpus](https://github.com/veezbo/akkadian_english_corpus/)  (corresponding [HuggingFace dataset](https://huggingface.co/datasets/veezbo/akkadian_english_corpus))  
+https://github.com/outlines-dev/outlines/pull/287  
 https://github.com/huggingface/transformers/pull/25807  
 
 ## 🔗 Connect with me
