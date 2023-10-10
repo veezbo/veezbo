@@ -9,11 +9,6 @@ I currently work on the Trust & Safety team @[Tinder](https://github.com/Tinder)
 Feel free to check out my personal website at [veezbo.com](http://veezbo.com) to learn more!
 
 ## 📚🧠 I’m currently working on
-### Llourney: Stable Diffusion with a fine-tuned LLM instead of CLIP  
-Repo: https://github.com/veezbo/llourney-dev  
-Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://github.com/andrewryanchama)  
-> Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
-
 ### AkkadianOracle: Understanding Ancient Peoples through Conversation
 Repo: https://github.com/veezbo/AkkadianOracle  
 Live Demo:  https://poe.com/AkkadianOracle  
@@ -22,6 +17,11 @@ Live Demo:  https://poe.com/AkkadianOracle
 > Additional experiments involve all-parameter fine-tuning as well as PEFT, notebooks included in that library
 
 > Research paper to be posted soon
+
+### Llourney: Stable Diffusion with a fine-tuned LLM instead of CLIP  
+Repo: https://github.com/veezbo/llourney-dev  
+Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://github.com/andrewryanchama)  
+> Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
 
 ## 🌐🤝 Recent contributions to open-source AI
 [veezbo/akkadian_english_corpus](https://github.com/veezbo/akkadian_english_corpus/) - corresponding [HuggingFace dataset](https://huggingface.co/datasets/veezbo/akkadian_english_corpus)  
