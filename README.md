@@ -10,14 +10,17 @@ Feel free to check out my personal website at [veezbo.com](http://veezbo.com) to
 
 ## 📚🧠 I’m currently working on
 ### Llourney: Stable Diffusion with a fine-tuned LLM instead of CLIP  
-[Github Repo Link](https://github.com/veezbo/llourney-dev)  
+Repo: https://github.com/veezbo/llourney-dev  
 Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://github.com/andrewryanchama)  
 > Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
 
 ### AkkadianOracle: Understanding Ancient Peoples through Conversation
-[Github Repo Link](https://github.com/veezbo/AkkadianOracle) 
+Repo: https://github.com/veezbo/AkkadianOracle  
+Live Demo:  https://poe.com/AkkadianOracle  
 > A chatbot built using the Poe platform on top of ChatGPT and GPT-4 with Retrieval-Augmented Generation (RAG) with my released [Akkadian English corpus](https://github.com/veezbo/akkadian_english_corpus/)
+
 > Additional experiments involve all-parameter fine-tuning as well as PEFT, notebooks included in that library
+
 > Research paper to be posted soon
 
 ## 🌐🤝 Recent contributions to open-source AI
