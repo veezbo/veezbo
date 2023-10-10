@@ -14,9 +14,11 @@ Feel free to check out my personal website at [veezbo.com](http://veezbo.com) to
 Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://github.com/andrewryanchama)  
 > Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
 
-### Akkadian Talker: Understanding Ancient Peoples through Conversation  
-_Not yet released_ but some preliminary results are queryable with a PEFT fine-tuning of Llama-2-7b [here](https://huggingface.co/veezbo/LLama-2-7b-hf-akkadian)
-> Fine-tuning pre-trained LLMs with a recently-published English-translated ancient language corpus with the ultimate goal of better understanding the “umwelt” of these ancient peoples. In contact with museums to create futuristic exhibits using this tech.
+### AkkadianOracle: Understanding Ancient Peoples through Conversation
+[Github Repo Link](https://github.com/veezbo/AkkadianOracle) 
+> A chatbot built using the Poe platform on top of ChatGPT and GPT-4 with Retrieval-Augmented Generation (RAG) with my released [Akkadian English corpus](https://github.com/veezbo/akkadian_english_corpus/)
+> Additional experiments involve all-parameter fine-tuning as well as PEFT, notebooks included in that library
+> Research paper to be posted soon
 
 ## 🌐🤝 Recent contributions to open-source AI
 [veezbo/akkadian_english_corpus](https://github.com/veezbo/akkadian_english_corpus/) - corresponding [HuggingFace dataset](https://huggingface.co/datasets/veezbo/akkadian_english_corpus)  
