@@ -10,7 +10,7 @@ Feel free to check out my personal website at [veezbo.com](http://veezbo.com) to
 
 ## 📚🧠 I’m currently working on
 ### AkkadianOracle: Understanding Ancient Peoples through Conversation
-Repo: https://github.com/veezbo/AkkadianOracle  
+Repo: https://github.com/veezbo/akkadian_oracle  
 Live Demo:  https://poe.com/AkkadianOracle  
 > A chatbot built using the Poe platform on top of ChatGPT and GPT-4 with Retrieval-Augmented Generation (RAG) with my released [Akkadian English corpus](https://github.com/veezbo/akkadian_english_corpus/)
 
