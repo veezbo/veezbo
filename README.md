@@ -24,6 +24,7 @@ Collaborators: [@dg845](https://github.com/dg845) [@andrewryanchama](https://git
 > Exploring the feasibility of replacing CLIP with an LLM fine-tuned using a frozen Stable Diffusion model and diffusion training loop.
 
 ## 🌐🤝 Recent contributions to open-source AI
+[veezbo/akkadian_oracle](https://github.com/veezbo/akkadian_oracle/)
 [veezbo/akkadian_english_corpus](https://github.com/veezbo/akkadian_english_corpus/) - corresponding [HuggingFace dataset](https://huggingface.co/datasets/veezbo/akkadian_english_corpus)  
 https://github.com/outlines-dev/outlines/pull/287  
 https://github.com/huggingface/transformers/pull/25807  
