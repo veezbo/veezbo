@@ -14,7 +14,7 @@ Repo: https://github.com/veezbo/akkadian_oracle
 Live Demo:  https://poe.com/AkkadianOracle  
 > A chatbot built using the Poe platform on top of ChatGPT and GPT-4 with Retrieval-Augmented Generation (RAG) with my released [Akkadian English corpus](https://github.com/veezbo/akkadian_english_corpus/)
 
-> Additional experiments involve all-parameter fine-tuning as well as PEFT, notebooks included in that library
+> Additional experiments involve pre-trained LLM fine-tuning as well as PEFT (with QLoRA). Notebooks included in the repo.
 
 > Research paper to be posted soon
 
