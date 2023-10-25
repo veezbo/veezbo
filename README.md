@@ -33,5 +33,6 @@ https://github.com/huggingface/transformers/pull/25807
 <a href="https://veezbo.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kumarvibhor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/veezbo" target="_blank"><img alt="HuggingFace" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height=30 width=30 /></a>
+<a href="https://vibhorkumar.substack.com/" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /></a>
 <a href="https://discord.com/users/veezbo" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:vibhor.kumar.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
